@@ -5,5 +5,6 @@ the other model I tried to implement was of a fourier forecasting method, where 
 My Email ID: ed22b083@smail.iitm.ac.in
 
 Name: Debankit Bhattacharya 
-I learnt a lot with this inital project and I really enjoyed it.
+
+I learnt a lot with this inital project and I really enjoyed it, would love to work on more.
 
