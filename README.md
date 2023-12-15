@@ -1,4 +1,5 @@
 Some Details:
+
 I have implemented the Z-Score model, one with an historial mean and the other with a rolling mean of 28 days.
 the other model I tried to implement was of a fourier forecasting method, where I was fourier forecasting the spread between bank nifty and nifty.
 
